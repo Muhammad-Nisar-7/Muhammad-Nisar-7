@@ -28,11 +28,6 @@ Motivated and professional Data Scientist with over 1 year of experience, profic
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-008080?style=flat&logo=nlp&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Nisar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Nisar-7&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Nisar-7&layout=compact&theme=radical)
-
 ## 🚀 Professional Experience
 
 ### Data Scientist
