@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me 
 
-Motivated and professional Data Scientist with over 1 year of experience, proficient in Python, Tableau, Hadoop, and other relevant tools. Skilled in analyzing and interpreting complex datasets to derive meaningful insights. Demonstrated ability to work independently and collaboratively as part of a team. Strong problem-solving skills and a solid foundation in data science principles. I am currently seeking a challenging role in a data-driven organization to leverage my technical skills and contribute to impactful solutions.
+Professional Data Scientist with over 1 year of experience, proficient in Python, Tableau, Hadoop, and other relevant tools. Skilled in analyzing and interpreting complex datasets to derive meaningful insights. Demonstrated ability to work independently and collaboratively as part of a team. Strong problem-solving skills and a solid foundation in data science principles. I am currently seeking a challenging role in a data-driven organization to leverage my technical skills and contribute to impactful solutions.
 
 - 📍 Karkala, Udupi, India
 - 📧 [muhammadnisary@gmail.com](mailto:muhammadnisary@gmail.com)
