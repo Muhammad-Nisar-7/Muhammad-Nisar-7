@@ -9,7 +9,7 @@ Professional Data Scientist with over 1 year of experience, proficient in Python
 - 📍 Karkala, Udupi, India
 - 📧 [muhammadnisary@gmail.com](mailto:muhammadnisary@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-nisar-ds/)
-- 🌐 [Personal Website](#)
+- 🌐 [Personal Website](https://muhammad-nisar-7.github.io/mnisar.github.io/)
 
 ## 🔧 Key Skills
 
